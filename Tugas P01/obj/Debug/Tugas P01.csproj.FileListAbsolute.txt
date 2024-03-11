@@ -1,0 +1,7 @@
+C:\Tugas MATKUL S2\PEMROGRAMMAN\Praktek\Tugas P01\Tugas P01\bin\Debug\Tugas P01.exe.config
+C:\Tugas MATKUL S2\PEMROGRAMMAN\Praktek\Tugas P01\Tugas P01\bin\Debug\Tugas P01.exe
+C:\Tugas MATKUL S2\PEMROGRAMMAN\Praktek\Tugas P01\Tugas P01\bin\Debug\Tugas P01.pdb
+C:\Tugas MATKUL S2\PEMROGRAMMAN\Praktek\Tugas P01\Tugas P01\obj\Debug\Tugas P01.csproj.AssemblyReference.cache
+C:\Tugas MATKUL S2\PEMROGRAMMAN\Praktek\Tugas P01\Tugas P01\obj\Debug\Tugas P01.csproj.CoreCompileInputs.cache
+C:\Tugas MATKUL S2\PEMROGRAMMAN\Praktek\Tugas P01\Tugas P01\obj\Debug\Tugas P01.exe
+C:\Tugas MATKUL S2\PEMROGRAMMAN\Praktek\Tugas P01\Tugas P01\obj\Debug\Tugas P01.pdb
